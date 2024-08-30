@@ -1,0 +1,26 @@
+body {
+
+   background-image:url(fondo2.jpg);
+   background-position: center center;
+    background-size:cover;
+    background-attachment: fixed;
+    
+
+}
+.txt {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.Contenido{
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+
+
+}
